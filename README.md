@@ -1,2 +1,2 @@
 ## React Projects Starter APP
-link::=>https://anubhavtours.netlify.app/
+link::=>https://satyamtours.netlify.app/
